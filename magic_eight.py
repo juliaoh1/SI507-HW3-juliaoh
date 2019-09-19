@@ -5,7 +5,7 @@ Created on Tue Sep 17 09:41:24 2019
 
 @author: Julia Coxen (juliaoh) and Zimeng Ding (zimengd)
 Homework 3 (Git and Github)
-SI 501, Section 001, Tuesdays at 4pm
+SI 507, Section 001, Tuesdays at 4pm
 """
 
 import random
