@@ -21,6 +21,19 @@ def askQuestion():
     
 quest = askQuestion()
 
+#function checks to ensure that the user is inputing a question by looking for a question mark at the end of their sentence
+def testQuestion(quest):
+    
+    if quest[-1] == "?":
+        returnResponse()
+    else:
+        print ("I'm sorry I can only answer questions.")
 
+#keeps asking for user input until the user types quit
+testQuestion(quest)
+     
+quest = askQuestion()
+while quest!="quit":
+    quest = askQuestion()
     
      
