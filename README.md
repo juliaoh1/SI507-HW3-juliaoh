@@ -3,7 +3,7 @@
   - uniqname : zimengd
   - github id : zimengd
  
- - Julia Coxen (section 001)
+- Julia Coxen (section 001)
   - uniqname :juliaoh
   - github id: juliaoh1
   
